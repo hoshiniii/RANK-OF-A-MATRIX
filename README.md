@@ -1,5 +1,6 @@
-# RANK-OF-A-MATRIX
+# EXP 2 - RANK-OF-A-MATRIX
 ## Aim:
+## DATE: 09.03.2024
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
 1. 	Hardware – PCs
@@ -11,12 +12,13 @@ To write a python program to find the rank of a matrix
 ### Step 4: Display the rank of matrix A using the print() statement.
 ### Step 5: End the program.
 ## Program:
+```
 #write a program to find the solution to a system of linear equations [5,-3,-10],[2,2,-3],[-3,-1,5]
 
 #prgram to find the rank of the matrix for the given matrix 
 #devoleped by : HOSHINI S
 #registerNumber:2305003006
-```python
+
 import numpy as np
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank = np.linalg.matrix_rank(a)
