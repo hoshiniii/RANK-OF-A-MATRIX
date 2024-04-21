@@ -1,6 +1,6 @@
 # EXP 2 - RANK-OF-A-MATRIX
-## Aim:
 ## DATE: 09.03.2024
+## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
 1. 	Hardware – PCs
